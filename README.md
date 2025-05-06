@@ -1,7 +1,3 @@
-Great! Here's a breakdown of **Assignment 4: Git Hooks & Automation**, including what each task involves and why it matters:
-
----
-
 ## 🎯 **Objective:**
 
 Learn to improve **code quality and consistency** through **Git hooks** and basic **CI (Continuous Integration)** using **automation tools**.
